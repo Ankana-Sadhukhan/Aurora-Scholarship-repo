@@ -42,7 +42,7 @@ Admin can view submitted records and verify attached documents.
 
 Clone the repo:
 
-git clone https://github.com/yourusername/Aurora-Scholarship-Portal.git
+git clone https://github.com/Ankana-Sadhukhan/Aurora-Scholarship-Portal.git
 cd Aurora-Scholarship-Portal
     
 Open index.html in your browser.
