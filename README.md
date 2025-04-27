@@ -1,75 +1,73 @@
-# Aurora-Scholarship-repo
-🌟 Aurora Scholarship Portal
-Aurora Scholarship Portal is a web application designed to streamline the process of applying for, managing, and reviewing scholarship applications. Built with a sleek, responsive frontend using Tailwind CSS and custom components, the portal ensures a premium user experience for applicants, reviewers, and administrators.
-🚀 Features
+🌟 AURORA Scholarship Portal
+Empowering students by making scholarships easily accessible, simple to apply for, and trackable online.
+________________________________________
+📌 Problem Statement
+12) Redesign Crisis Logistics and Relief Distribution
+________________________________________
+🎯 Objective
+The AURORA Scholarship Portal solves the problem of scattered and hard-to-find scholarship opportunities, especially for rural students.
+It serves students by providing a centralized, easy-to-use, and responsive platform where they can view, apply, and manage scholarship applications.
+Our project adds value by reducing barriers and increasing accessibility to education funding.
+________________________________________
+🧠 Team & Approach
+Team Name:
+code crackers
+Team Members:
+•	Ankana Sadhukhan
+•	Asmita Banerjee
+•	Isha Chakraborty
+Our Approach:
+•	We chose this problem because educational opportunities should be available to every student, no matter where they come from.
+•	Key Challenges Addressed: Building an organized, visually appealing platform using only client-side technologies.
+•	Breakthroughs: We successfully implemented LocalStorage for data persistence and used Google Charts for dynamic application analytics.
+________________________________________
+🛠️ Tech Stack
+Core Technologies Used:
+•	Frontend: HTML, TailwindCSS, CSS, JavaScript
+•	Data Visualization: Google Charts
+•	Storage: LocalStorage (Browser-based storage)
+•	Version Control: GitHub
+•	Design: Fully Responsive Design (Mobile, Tablet, Desktop)
+________________________________________
+✨ Key Features
+✅ Easy browsing and application to scholarships
+✅ Dynamic charts showing scholarship trends and application stats (using Google Charts)
+✅ Fully responsive across mobile, tablet, and desktop
+✅ Data persistence using LocalStorage 
+ 
+________________________________________
+📽️ Demo & Deliverables
+•	Demo Video Link: https://www.loom.com/share/cf6715840a6e49c2afe7c714520f2b75?sid=78d94fd6-dced-46dc-858b-b5c93e0fc3f6
+________________________________________
+✅ Tasks & Bonus Checklist
+✅ All team members followed at least 2 official social channels and filled the form
+✅ Bonus Task 1 completed - Shared Badges and submitted form (2 points)
+✅ Bonus Task 2 completed - Signed up for Sprint.dev and filled the form (3 points)
+________________________________________
+🧪 How to Run the Project
+Requirements:
+•	Web Browser (Chrome, Firefox, Safari, etc.)
+Local Setup:
+# Clone the repository
+git clone https://github.com/VisionQuest/aurora-scholarship-portal
 
-🎓 Scholarship application submission
-📄 Auto-generated PDF from application data
-📁 Document upload support (including Aadhar, photo, certificates)
-🗂 Admin view of submitted applications
-🔐 Secure data handling and validation
-🧾 Aesthetic and clean UI built with Tailwind CSS
+# Open index.html in your browser
+✅ No installation needed.
+✅ No backend server needed.
+________________________________________
+🧬 Future Scope
+•	📈 Add Admin Dashboard for managing scholarships dynamically
+•	🛡️ Add Authentication (login/signup system)
+•	📲 Create a mobile app version for easier access
+________________________________________
+📎 Resources / Credits
+•	TailwindCSS documentation
+•	Google Charts API documentation
+•	GitHub for version control
+•	Various open-source inspiration for UI design ideas
+________________________________________
+🏁 Final Words
+We loved building AURORA Scholarship Portal!
+It taught us the power of clean frontend development and how meaningful simple technology can be for solving real-world problems. 🚀
+Huge thanks to the organizers, mentors, and our amazing team for this journey!
 
-📁 Project Structure
-Aurora-Scholarship-Portal/
-├── index.html              # Landing page
-├── appli.html              # Application form (PDF generation)
-├── rregistration.html      # Registration form with document upload
-├── aadm.html               # Admin view of application data
-├── assets/
-│   ├── css/                # Custom styles and Tailwind
-│   └── js/                 # JavaScript files for form logic
-├── images/                 # Logo and UI images
-├── scripts/                # PDF and data handling scripts
-└── README.md               # Project documentation
-
-    
-🛠 Tech Stack
-
-Frontend: HTML5, Tailwind CSS, Custom CSS
-Scripting: JavaScript
-PDF Generation: jsPDF, html2canvas
-Data Handling: LocalStorage / Form-based redirection
-
-📝 How It Works
-
-User fills out the application on appli.html.
-PDF is generated automatically using jsPDF with embedded details and uploaded images.
-Data is redirected to the admin page (aadm.html) for storage or review.
-Admin can view submitted records and verify attached documents.
-
-📦 Installation & Setup
-
-Clone the repo:
-
-git clone https://github.com/Ankana-Sadhukhan/Aurora-Scholarship-Portal.git
-cd Aurora-Scholarship-Portal
-    
-Open index.html in your browser.
-
-Note: This is a static web project. No backend integration yet. To enable full features like database storage, server-side validation, and email alerts, backend implementation is recommended.
-
-🧩 To-Do
-
- Add backend support (Node.js / PHP / Firebase / etc.)
- Integrate database for storing applicant data
- Add email notifications
- Implement login system for applicants and admins
- Improve accessibility and cross-browser testing
-
-🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-Fork the project
-Create your feature branch (git checkout -b feature/new-feature)
-Commit your changes (git commit -m 'Add new feature')
-Push to the branch (git push origin feature/new-feature)
-Open a Pull Request
-
-📄 License
-This project is licensed under the [MIT License](LICENSE).
-✨ Acknowledgements
-
-Tailwind CSS — for utility-first styling
-jsPDF & html2canvas — for smooth PDF creation
-Inspiration from various open scholarship platforms
