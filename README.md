@@ -61,7 +61,7 @@ Our project adds value by **reducing barriers** and **increasing accessibility**
 
 ```bash
 # Clone the repository
-git clone https://github.com/VisionQuest/aurora-scholarship-portal
+https://github.com/Ankana-Sadhukhan/Aurora-Scholarship-repo.git
 
 # Open index.html in your browser
 ```
