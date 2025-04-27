@@ -49,7 +49,7 @@ Requirements:
 •	Web Browser (Chrome, Firefox, Safari, etc.)
 Local Setup:
 # Clone the repository
-git clone https://github.com/VisionQuest/aurora-scholarship-portal
+https://github.com/Ankana-Sadhukhan/Aurora-Scholarship-repo.git
 
 # Open index.html in your browser
 ✅ No installation needed.
